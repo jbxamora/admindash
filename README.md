@@ -97,7 +97,7 @@ export const getTransactions = async (req, res) => {
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. If the issue goes unresolved for more than a week feel free to contact me at any of the links listed below. Be sure to add me on LinkedIn and Follow me on GitHub to view my course progression. You can also visit the deployed site and sent a messafe through the contact form.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 ## License
 
 MIT License

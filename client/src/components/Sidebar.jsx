@@ -31,7 +31,6 @@ import {
 import { useEffect, useState } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
 import FlexBetween from "./FlexBetween";
-i
 const navItems = [
   {
     text: "Dashboard",

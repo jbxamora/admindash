@@ -31,6 +31,8 @@ import {
 import { useEffect, useState } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
 import FlexBetween from "./FlexBetween";
+import profileImage from "assets/profile.jpeg";
+
 const navItems = [
   {
     text: "Dashboard",

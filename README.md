@@ -9,7 +9,7 @@ You can also view the webpage through the link below.
 
 **NOTE** The first time you visit the webpage it will take a minute for the api to fetch data
 
-[Deployed Site](https://adminclient-nfme.onrender.com/dashboard)
+[Deployed Site](https://adminclient-nfme.onrender.com)
 
 
 

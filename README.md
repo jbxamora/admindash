@@ -5,9 +5,11 @@ ECOMVISION - an all-in-one admin dashboard for businesses. With ECOMVISION, mana
 ## Installation
 If you would like to run the application on your local machine, head over to the Client folder README for instructions.
 
-You can also view the webpage through the link below.
+You can also view the webpage through the link below. 
 
-[Deployed Site](https://adminclient-nfme.onrender.com)
+**NOTE** The first time you visit the webpage it will take a minute for the api to fetch data
+
+[Deployed Site](https://adminclient-nfme.onrender.com/dashboard)
 
 
 

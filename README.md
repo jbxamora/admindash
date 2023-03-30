@@ -1,5 +1,5 @@
 # admindash
-ECOMVISION - an all-in-one admin dashboard for businesses. With ECOMVISION, managing and analyzing your business data has never been easier. Keep track of your sales figures, customer engagement metrics, and more - all on one sleek and intuitive platform. I designed ECOMVISION with the user in mind, incorporating modern design elements and easy-to-use features. Plus, with cutting-edge technologies like the MERN stack, Node JS, and MongoDB, you can count on speed and reliability.
+ECOMVISION - an all-in-one admin dashboard for businesses. With ECOMVISION, managing and analyzing your business data has never been easier. Keep track of your sales figures, customer engagement metrics, and more - all on one sleek and intuitive platform. I designed ECOMVISION with the user in mind, incorporating modern design elements and easy-to-use features. Plus, with cutting-edge technologies like the React.js, Express, Node JS, and MongoDB, you can count on speed and reliability.
   
 
 ## Installation
